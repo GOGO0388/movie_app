@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GOGO0388/movie_app/static/css/main.10b0ebdd.chunk.css",
+    "main.js": "/GOGO0388/movie_app/static/js/main.dfc33f18.chunk.js",
+    "main.js.map": "/GOGO0388/movie_app/static/js/main.dfc33f18.chunk.js.map",
+    "runtime-main.js": "/GOGO0388/movie_app/static/js/runtime-main.4f6525f4.js",
+    "runtime-main.js.map": "/GOGO0388/movie_app/static/js/runtime-main.4f6525f4.js.map",
+    "static/js/2.a54d7e75.chunk.js": "/GOGO0388/movie_app/static/js/2.a54d7e75.chunk.js",
+    "static/js/2.a54d7e75.chunk.js.map": "/GOGO0388/movie_app/static/js/2.a54d7e75.chunk.js.map",
+    "index.html": "/GOGO0388/movie_app/index.html",
+    "precache-manifest.1169080678191ce95c8316436caf1bea.js": "/GOGO0388/movie_app/precache-manifest.1169080678191ce95c8316436caf1bea.js",
+    "service-worker.js": "/GOGO0388/movie_app/service-worker.js",
+    "static/css/main.10b0ebdd.chunk.css.map": "/GOGO0388/movie_app/static/css/main.10b0ebdd.chunk.css.map",
+    "static/js/2.a54d7e75.chunk.js.LICENSE": "/GOGO0388/movie_app/static/js/2.a54d7e75.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f6525f4.js",
+    "static/js/2.a54d7e75.chunk.js",
+    "static/css/main.10b0ebdd.chunk.css",
+    "static/js/main.dfc33f18.chunk.js"
+  ]
+}
